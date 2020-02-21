@@ -14,10 +14,9 @@ A Windows-on való futtatáshoz a [Docker](https://www.docker.com/)-t fogjuk has
 
 Ennek telepítését l. [itt](https://docs.docker.com/docker-for-windows/install/) és [itt](https://mohammaddarab.com/how-to-install-docker-desktop-on-windows-10/).
 
-
 ## Python
 
-A python programozáshoz az Anaconda környezetet és a jupyter-notebook felületet fögjuk használni.
+A python programozáshoz az Anaconda környezetet és a jupyter-notebook felületet fogjuk használni.
 
 Anaconda letöltés: https://www.anaconda.com/distribution/ (Windows, Python 3.7, 64-bit)
 
