@@ -9,3 +9,4 @@ használata és az elemzés további feldolgozásához szükséges Python ismere
 | Alkalom | Leírás |
 |--------:|--------|
 | [0.](https://github.com/mittelholcz/python2020/blob/master/00.intro/)   | Technikai információk |
+| [0.](https://github.com/mittelholcz/python2020/blob/master/01.jupyter/) | Jupyter notebook alapok, ismerkedés a Pythonnal |
