@@ -10,3 +10,4 @@ használata és az elemzés további feldolgozásához szükséges Python ismere
 |--------:|--------|
 | [0.](https://github.com/mittelholcz/python2020/blob/master/00.intro/)   | Technikai információk |
 | [1.](https://github.com/mittelholcz/python2020/blob/master/01.jupyter/) | Jupyter notebook alapok, ismerkedés a Pythonnal |
+| [2.](https://github.com/mittelholcz/python2020/blob/master/02.bevprog/) | Bevezetés a programozásba, típusok, értékadás |
