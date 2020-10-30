@@ -12,3 +12,5 @@ használata és az elemzés további feldolgozásához szükséges Python ismere
 | [1.](https://github.com/mittelholcz/python2020/blob/master/01.jupyter/) | Jupyter notebook alapok, ismerkedés a Pythonnal |
 | [2.](https://github.com/mittelholcz/python2020/blob/master/02.bevprog/) | Bevezetés a programozásba, típusok, értékadás |
 | [3.](https://github.com/mittelholcz/python2020/blob/master/03.osszetett/) | Összetett adattípusok és műveleteik |
+| [4.](https://github.com/mittelholcz/python2020/blob/master/04.vezerles/) | Vezérlési szerkezetek (elágazás, ciklusok) |
+| [5.](https://github.com/mittelholcz/python2020/blob/master/05.fuggveny/) | Függvények |
