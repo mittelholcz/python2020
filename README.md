@@ -15,3 +15,4 @@ használata és az elemzés további feldolgozásához szükséges Python ismere
 | [4.](https://github.com/mittelholcz/python2020/blob/master/04.vezerles/)  | Vezérlési szerkezetek (elágazás, ciklusok) |
 | [5.](https://github.com/mittelholcz/python2020/blob/master/05.fuggveny/)  | Függvények |
 | [6.](https://github.com/mittelholcz/python2020/blob/master/06.fajlok/)    | String formázás, printelés, fájlkezelés |
+| [7.](https://github.com/mittelholcz/python2020/blob/master/07.modulok/)   | Másolás, modulok, csomagok |
